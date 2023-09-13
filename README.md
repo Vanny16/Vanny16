@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="180" src="https://media.tenor.com/GOabrbLMl4AAAAAd/plink-cat-plink.gif"  />
+<img align="right" height="180" src="https://media.tenor.com/4JPIAxuBwP4AAAAC/cat-animated-stickers.gif"  />
 
 ###
 
