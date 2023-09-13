@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Evan Bonso a Computer Science Student <3</h2>
+![image](https://github.com/Vanny16/Vanny16/assets/115968489/35a033ec-7285-4e9b-96db-a74ededd68b8)<h2 align="left">Hi 👋! My name is Evan Bonso a Computer Science Student <3</h2>
 
 ###
 
-<img align="right" height="180" src="https://media.tenor.com/4JPIAxuBwP4AAAAC/cat-animated-stickers.gif"  />
+<img align="right" height="180" src="https://media.tenor.com/wU62EeyzELQAAAAd/cat.gif"  />
 
 ###
 
