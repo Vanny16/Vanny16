@@ -1,8 +1,9 @@
 <h2 align="left">Hi 👋! My name is Evan Bonso <3</h2>
+<h2 align="left">Hi 👋! My name is Evan Bonso <3</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.gifer.com/y2.gif"  />
 
 ###
 
