@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋! My name is Evan Bonso <3</h2>
-<h2 align="left">Hi 👋! My name is Evan Bonso <3</h2>
 
 ###
 
