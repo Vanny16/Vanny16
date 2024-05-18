@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Evan Bonso a Computer Science Student <3</h2>
+<h2 align="left">Hi 👋! My name is Evan Bonso a Full-stack Web developer <3</h2>
 
 ###
 
