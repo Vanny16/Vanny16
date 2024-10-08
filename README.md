@@ -1,4 +1,4 @@
-<h2 align="left"> Full-stack Web developer <3</h2>
+<h2 align="left"> Full-stack Web developer</h2>
 
 ###
 
